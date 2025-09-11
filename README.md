@@ -1,7 +1,7 @@
 # My Name is Taha F. Khan! ✨
 
 # 💫 About Me:
-🔭 I’m currently working on Chrome Extensions<br>🌱 I’m learning Python and diving deeper into Backend Development<br>💬 Ask me about React, C, and Python<br>✉️ Reach me at: tahafkbusiness@gmail.com<br>⚡ Fun Fact: I’m also a content creator with 15K+ followers!
+🔭 I’m currently working on Chrome Extensions<br>🌱 I’m learning Python and diving deeper into Backend Development<br>💬 Ask me about React, C, and Python<br>✉️ Reach me at: tahafkbusiness@gmail.com<br>⚡ abcdefghijklmnopqrstuvwxyz
 
 
 ## 🌐 Socials:
