@@ -1,4 +1,4 @@
-# My Name is Taha F. Khan! ✨
+# My Name is Taha!
 
 #  About Me:
 I'm currently exploring python libraries, and diving more in computer vision & computer human interation.
